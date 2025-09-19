@@ -1,0 +1,11 @@
+pandas>=1.5.0
+numpy>=1.21.0
+streamlit>=1.28.0
+sqlalchemy>=1.4.0
+spacy>=3.4.0
+nltk>=3.8.0
+fuzzywuzzy>=0.18.0
+python-levenshtein>=0.20.0
+plotly>=5.0.0
+chardet>=5.0.0
+openpyxl>=3.0.0
